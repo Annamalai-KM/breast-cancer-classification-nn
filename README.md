@@ -5,16 +5,16 @@ A production-minded, end-to-end binary classification project that predicts whet
 ---
 
 Contents
-- 🔥 Highlights
-- 📊 Dataset Description
-- 🧠 How the Model Works
-- 🧪 Project Structure
-- ⚙️ Installation & Usage
-- 📈 Training Visualizations
-- 🧾 Evaluation & Metrics
-- 🛠️ Future Improvements
-- 📁 License
-- 🙏 Credits
+-  Highlights
+-  Dataset Description
+-  How the Model Works
+-  Project Structure
+-  Installation & Usage
+-  Training Visualizations
+-  Evaluation & Metrics
+-  Future Improvements
+-  License
+-  Credits
 
 ---
 
